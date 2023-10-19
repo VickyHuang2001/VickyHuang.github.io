@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://VickyHuang.github.io/al-folio/sitemap.xml
+Sitemap: https://VickyHuang.github.io/sitemap.xml
