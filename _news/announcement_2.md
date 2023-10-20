@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intern as a clerk in the Cultural Station of Pingjiang Street, Suzhou, Jiangsu Province
+title: Interned as a clerk in the Cultural Station of Pingjiang Street, Suzhou, Jiangsu Province
 date: 2022-11-01
 inline: false
 related_posts: false
