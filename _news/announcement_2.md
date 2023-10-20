@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Intern as a clerk in the Cultural Station of Pingjiang Street, Suzhou, Jiangsu Province
+date: 2022-11-01
 inline: false
 related_posts: false
 ---
